@@ -11,7 +11,7 @@ Make sure you have the following installed on your machine:
 
 # Installation
 
-1. Clone the repository: git clone
+1. Clone the repository: git clone --recursive git@github.com:nabinelnino/lab-repo.git
 2. Install dependencies: npm install
 
 # Configuration
